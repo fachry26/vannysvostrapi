@@ -1,0 +1,31 @@
+{
+  "kind": "collectionType",
+  "collectionName": "pages",
+  "info": {
+    "singularName": "page",
+    "pluralName": "pages",
+    "displayName": "Page"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "slug": {
+      "type": "string"
+    },
+    "page_content": {
+      "type": "dynamiczone",
+      "components": [
+        "hero-banner.hero-banner",
+        "story-highlights-section.story-highlights-section",
+        "journey-section.journey-section",
+        "certified-by-section.certified-by-section",
+        "owner-story-section.owner-story-section",
+        "why-choose-us-section.why-choose-us-section",
+        "testimonials-section.testimonials-section",
+        "cta-section.cta-section"
+      ]
+    }
+  }
+}

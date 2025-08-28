@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_certified_by_section_certified_by_sections",
+  "info": {
+    "displayName": "certified_by_section"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "logos": {
+      "type": "component",
+      "component": "certification-logo.logos",
+      "repeatable": true
+    }
+  },
+  "config": {}
+}

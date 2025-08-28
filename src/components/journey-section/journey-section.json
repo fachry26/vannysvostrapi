@@ -1,0 +1,24 @@
+{
+  "collectionName": "components_journey_section_journey_sections",
+  "info": {
+    "displayName": "journey_section"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "cards": {
+      "type": "component",
+      "component": "journey-card.cards",
+      "repeatable": true
+    },
+    "buttonText": {
+      "type": "string"
+    },
+    "buttonLink": {
+      "type": "string"
+    }
+  },
+  "config": {}
+}

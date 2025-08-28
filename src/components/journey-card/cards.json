@@ -1,0 +1,26 @@
+{
+  "collectionName": "components_journey_card_cards",
+  "info": {
+    "displayName": "cards"
+  },
+  "options": {},
+  "attributes": {
+    "image": {
+      "type": "media",
+      "multiple": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "caption": {
+      "type": "string"
+    },
+    "storyText": {
+      "type": "text"
+    }
+  },
+  "config": {}
+}

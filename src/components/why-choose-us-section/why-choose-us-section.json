@@ -1,0 +1,40 @@
+{
+  "collectionName": "components_why_choose_us_section_why_choose_us_sections",
+  "info": {
+    "displayName": "why_choose_us_section"
+  },
+  "options": {},
+  "attributes": {
+    "mainImage": {
+      "type": "media",
+      "multiple": true,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "title": {
+      "type": "string"
+    },
+    "popupTitle": {
+      "type": "string"
+    },
+    "popupContent": {
+      "type": "text"
+    },
+    "popupSignature": {
+      "type": "string"
+    },
+    "ingredients": {
+      "type": "component",
+      "component": "ingredient-item.ingredient-item",
+      "repeatable": true
+    },
+    "buttonText": {
+      "type": "string"
+    }
+  },
+  "config": {}
+}

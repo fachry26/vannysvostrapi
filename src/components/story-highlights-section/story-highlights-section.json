@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_story_highlights_section_story_highlights_sections",
+  "info": {
+    "displayName": "story_highlights_section"
+  },
+  "options": {},
+  "attributes": {
+    "stories": {
+      "type": "component",
+      "component": "story-item.stories",
+      "repeatable": true
+    }
+  },
+  "config": {}
+}

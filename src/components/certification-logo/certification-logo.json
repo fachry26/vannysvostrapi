@@ -1,0 +1,23 @@
+{
+  "collectionName": "components_certification_logo_certification_logos",
+  "info": {
+    "displayName": "certification_logo"
+  },
+  "options": {},
+  "attributes": {
+    "logoText": {
+      "type": "string"
+    },
+    "logoImage": {
+      "type": "media",
+      "multiple": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    }
+  },
+  "config": {}
+}

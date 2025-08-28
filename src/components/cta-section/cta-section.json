@@ -1,0 +1,34 @@
+{
+  "collectionName": "components_cta_section_cta_sections",
+  "info": {
+    "displayName": "cta_section"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "subtitle": {
+      "type": "string"
+    },
+    "contactPersonName": {
+      "type": "string"
+    },
+    "whatsappNumber": {
+      "type": "string"
+    },
+    "phoneNumber": {
+      "type": "string"
+    },
+    "instagramHandle": {
+      "type": "string"
+    },
+    "adress": {
+      "type": "text"
+    },
+    "googleMapsEmbedUrl": {
+      "type": "text"
+    }
+  },
+  "config": {}
+}

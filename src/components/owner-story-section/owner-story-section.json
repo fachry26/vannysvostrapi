@@ -1,0 +1,39 @@
+{
+  "collectionName": "components_owner_story_section_owner_story_sections",
+  "info": {
+    "displayName": "owner_story_section"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "storyParagraph": {
+      "type": "text"
+    },
+    "signature": {
+      "type": "string"
+    },
+    "beforeImage": {
+      "type": "media",
+      "multiple": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "afterImage": {
+      "type": "media",
+      "multiple": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    }
+  },
+  "config": {}
+}
